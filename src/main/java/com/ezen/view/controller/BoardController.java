@@ -145,6 +145,10 @@ public class BoardController {
 		
 		return boardListVO;
 	}
+	
+	public void temp() {
+		System.out.println("test");
+	}
 }
 
 
