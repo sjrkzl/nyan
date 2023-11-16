@@ -148,6 +148,7 @@ public class BoardController {
 	
 	public void temp() {
 		System.out.println("test");
+		System.out.println("pull request");
 	}
 }
 
